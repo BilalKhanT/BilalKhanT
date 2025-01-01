@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bilal Khan</h1>
+<h1 align="center">Hello, I'm Bilal Khan</h1>
 <h3 align="center">A Software Engineer | Mobile Application Developer | Machine Learning enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalkhant&label=Profile%20views&color=0e75b6&style=flat" alt="bilalkhant" /> </p>
