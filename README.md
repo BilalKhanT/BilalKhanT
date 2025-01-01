@@ -5,17 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilalkhant" alt="bilalkhant" /></a> </p>
 
-- 🔭 I’m currently working on [OculaCare](https://github.com/BilalKhanT/OculaCare)
+- AI Challenge 2024 by Securiti AI Runner-up [OculaCare](https://github.com/BilalKhanT/OculaCare)
 
-- 🌱 I’m currently learning **Deep Learning, Machine Learning, langChains**
+- Industrial Expo COMSATS University Islamabad First Position [OculaCare](https://github.com/BilalKhanT/OculaCare)
 
-- 👯 I’m looking to collaborate on **ML based project**
+- I’m currently learning **Deep Learning, Machine Learning, langChains**
 
-- 👨‍💻 All of my projects are available at [https://github.com/BilalKhanT](https://github.com/BilalKhanT)
+- I’m looking to collaborate on **ML based project**
 
-- 💬 Ask me about **Flutter, React Native, Java and Python**
+- All of my projects are available at [https://github.com/BilalKhanT](https://github.com/BilalKhanT)
 
-- 📫 How to reach me **m.bilalkhant@gmail.com**
+- Ask me about **Flutter, React Native, Java and Python**
+
+- How to reach me **m.bilalkhant@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
