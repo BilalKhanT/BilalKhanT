@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Bilal Khan</h1>
-<h3 align="center">A Software Engineer | Mobile Application Developer | Machine Learning enthusiast</h3>
+<h3 align="center">A Software Engineer | Mobile Application Developer | AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalkhant&label=Profile%20views&color=0e75b6&style=flat" alt="bilalkhant" /> </p>
 
@@ -11,7 +11,7 @@
 
 - I’m currently learning **Deep Learning, Machine Learning, langChains**
 
-- I’m looking to collaborate on **ML based project**
+- I’m looking to collaborate on **AI based project**
 
 - All of my projects are available at [https://github.com/BilalKhanT](https://github.com/BilalKhanT)
 
